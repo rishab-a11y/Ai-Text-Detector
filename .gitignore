@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+train_v2_drcat_02.csv
+train_clean.csv
+test_clean.csv
+train_dataset.pt
+test_dataset.pt
+roberta_model.pt
+*.pkl
