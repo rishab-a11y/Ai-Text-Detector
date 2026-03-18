@@ -1,7 +1,0 @@
-style,true_label,predicted,confidence,correct
-Personal story,Human,AI,64.0%,False
-Formal AI essay,AI,AI,94.6%,True
-Scientific writing,Human,AI,93.7%,False
-AI climate essay,AI,AI,98.1%,True
-Student writing,Human,Human,50.8%,True
-Formal AI paragraph,AI,AI,98.1%,True
